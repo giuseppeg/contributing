@@ -8,7 +8,7 @@ Unfortunately, as [@Kitze](https://twitter.com/thekitze) wrote
 
 <a href="https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed" target="_blank"><img alt="Blog Post: Stars Won't Pay You Rent" src="https://img.shields.io/badge/stars-won't%20pay%20you%20rent-ff0000"></a>
 
-Since most of my contributions are to side projects and I don't want to burn out, in some cases I decide to disable GitHub issues or turn off notifications for the most active projects. 
+Since most of my contributions are to side projects and I don't want to burn out, in some cases I might decide to disable GitHub issues or turn off notifications for the most active projects. 
 
 Don't worry though, periodically I take a look at open issues and PRs and take action if necessary!
 
